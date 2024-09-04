@@ -1,0 +1,24 @@
+body{text-decoration: none;
+    text-align: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 430px;
+
+}
+#container{
+    color: white;
+    background: var(--fundo);
+    padding: var(--espaco);
+    border-radius: var(--espaco);
+    border: 2px solid var(--claro);
+    box-shadow: 0 0 5px black;
+    margin: 0px 10px;
+    width: 93vh;
+}
+:root {
+    --fundo: linear-gradient(to top right, rgb(11, 99, 99), rgb(22, 126, 167));
+    --normal: rgb(22, 126, 167);
+    --claro: rgb(25, 176, 187);
+    --cinza: rgb(197, 197, 197);
+    --espaco: 25px;
+}

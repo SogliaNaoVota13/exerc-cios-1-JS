@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(202, 224, 0);
+    color: white;
+    text-align: center;
+}
+
+input,button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 12px;
+}
